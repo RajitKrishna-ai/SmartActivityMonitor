@@ -1,0 +1,13 @@
+filename,label,frames,fps,duration_seconds,created_at
+data\raw\walking\walking_demo_1.mp4,walking,60,20.0,3.0,2025-11-28T07:20:00.180071
+data\raw\walking\walking_demo_2.mp4,walking,60,20.0,3.0,2025-11-28T07:20:00.186067
+data\raw\walking\walking_demo_3.mp4,walking,60,20.0,3.0,2025-11-28T07:20:00.206058
+data\raw\running\running_demo_1.mp4,running,60,20.0,3.0,2025-11-28T07:20:00.217049
+data\raw\running\running_demo_2.mp4,running,60,20.0,3.0,2025-11-28T07:20:00.223045
+data\raw\running\running_demo_3.mp4,running,60,20.0,3.0,2025-11-28T07:20:00.232041
+data\raw\sitting\sitting_demo_1.mp4,sitting,60,20.0,3.0,2025-11-28T07:20:00.237041
+data\raw\sitting\sitting_demo_2.mp4,sitting,60,20.0,3.0,2025-11-28T07:20:00.242035
+data\raw\sitting\sitting_demo_3.mp4,sitting,60,20.0,3.0,2025-11-28T07:20:00.249031
+data\raw\falling\falling_demo_1.mp4,falling,60,20.0,3.0,2025-11-28T07:20:00.255027
+data\raw\falling\falling_demo_2.mp4,falling,60,20.0,3.0,2025-11-28T07:20:00.260025
+data\raw\falling\falling_demo_3.mp4,falling,60,20.0,3.0,2025-11-28T07:20:00.265023
